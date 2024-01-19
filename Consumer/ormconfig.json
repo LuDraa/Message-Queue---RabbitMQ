@@ -1,0 +1,15 @@
+{
+    "type" : "mysql",
+    "host" : "localhost",
+    "port" : "3306",
+    "user" : "root",
+    "password" : "shardulsrk",
+    "database" : "rab",
+    "entities" : [
+        "src/entity/*.js"
+    ],
+    "logging" : true,
+    "synchronize" : true
+
+}
+
